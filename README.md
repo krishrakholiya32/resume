@@ -1,7 +1,6 @@
 # Krish Rakholiya — Resume
 
-ATS-friendly PDF, updated periodically.
+ATS-friendly resume, updated periodically. Available as PDF and DOCX.
 
-**[📄 Download / view resume](Krish_Rakholiya_Resume.pdf)**
-
-Direct link for sharing: https://raw.githubusercontent.com/krishrakholiya32/resume/main/Krish_Rakholiya_Resume.pdf
+- **[📄 PDF](Krish_Rakholiya_Resume.pdf)** — direct link: https://raw.githubusercontent.com/krishrakholiya32/resume/main/Krish_Rakholiya_Resume.pdf
+- **[📝 DOCX](Krish_Rakholiya_Resume.docx)** — direct link: https://raw.githubusercontent.com/krishrakholiya32/resume/main/Krish_Rakholiya_Resume.docx
